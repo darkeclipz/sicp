@@ -27,6 +27,9 @@
 (sqrt (sqrt 1000))
 
 
+
+
+(- 10 5)
 ; (operator <operands>)
 
 ; applicative order vs. normal order
@@ -50,3 +53,5 @@
 
 
 ; lexical scoping
+
+; usually predicates end with a ?.
